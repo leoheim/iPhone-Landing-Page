@@ -15,3 +15,6 @@ This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS.
   <li>Tailwind CSS</li>
 </ul>
 
+<h2>Preview of the site</h2>
+
+https://iphone-landing-page-one.vercel.app
